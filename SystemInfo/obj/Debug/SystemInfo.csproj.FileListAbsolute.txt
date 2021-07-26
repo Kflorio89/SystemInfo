@@ -1,0 +1,7 @@
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csproj.AssemblyReference.cache
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csproj.CoreCompileInputs.cache
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\kflor\source\repos\SystemInfo\SystemInfo\obj\Debug\SystemInfo.pdb
